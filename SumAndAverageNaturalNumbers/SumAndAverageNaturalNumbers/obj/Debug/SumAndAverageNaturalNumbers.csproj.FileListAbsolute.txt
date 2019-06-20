@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\bin\Debug\SumAndAverageNaturalNumbers.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\bin\Debug\SumAndAverageNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\bin\Debug\SumAndAverageNaturalNumbers.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\obj\Debug\SumAndAverageNaturalNumbers.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\obj\Debug\SumAndAverageNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\obj\Debug\SumAndAverageNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers\obj\Debug\SumAndAverageNaturalNumbers.pdb

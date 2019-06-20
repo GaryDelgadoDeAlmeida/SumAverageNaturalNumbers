@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAndAverageNaturalNumbers", "SumAndAverageNaturalNumbers\SumAndAverageNaturalNumbers.csproj", "{16976702-BB11-4D70-B11E-876D9291AF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16976702-BB11-4D70-B11E-876D9291AF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16976702-BB11-4D70-B11E-876D9291AF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16976702-BB11-4D70-B11E-876D9291AF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16976702-BB11-4D70-B11E-876D9291AF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6072C8-EC44-4C9F-B48D-7694A70B06D6}
+	EndGlobalSection
+EndGlobal
